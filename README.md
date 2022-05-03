@@ -1,15 +1,6 @@
-# MECH105_Algorithm
+# MECH105_Algorithm README.md
 
-**bold**
-*italics*
+##What is in here?
+- This repository contains all of the algorithms I have created for MECH105 with Dr. B. All of the algorithms were created in the spring semester of 2022 of my freshman year of college at Colorado State University.
 
-1. hjello
-2. hi
-3. plorps
-
-
-## OUTPUTS
-
-## INPUTS
-# markdown cheat sheet guide online
 
