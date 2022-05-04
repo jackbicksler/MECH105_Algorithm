@@ -15,3 +15,6 @@
 ## Inputs
 1. x: array of independent data set
 2. y: array of dependent data set
+
+# Limitations
+- Not any limitations known.
