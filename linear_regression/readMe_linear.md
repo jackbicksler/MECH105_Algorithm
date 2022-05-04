@@ -5,6 +5,10 @@
 
 # Function Variables
 
+## Inputs
+1. x: array of independent data set
+2. y: array of dependent data set
+
 ## Outputs
 1. fX: original array of data but with outliers(if any) removed
 2. fY: original array of data but with outliers(if any) removed
@@ -12,9 +16,6 @@
 4. intercept: intercept of new linear equation (b in y=mx+b)
 5. Rsquared: The R^2 value of the Coefficient of Determination
 
-## Inputs
-1. x: array of independent data set
-2. y: array of dependent data set
 
 # Limitations
 - Not any limitations known.
